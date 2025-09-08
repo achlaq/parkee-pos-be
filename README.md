@@ -8,7 +8,7 @@ Aplikasi backend menggunakan **Spring Boot** dengan REST API untuk mengelola apl
 - [Java 17+](https://adoptium.net/)
 - [Spring Boot 3.x](https://spring.io/projects/spring-boot)
 - [Maven](https://maven.apache.org/)
-- Database: PostgreSQL, FlyAway
+- Database: PostgreSQL, Flyway
 
 ---
 
